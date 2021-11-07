@@ -1,0 +1,19 @@
+Hi Everyone,
+
+Here are some tips on how to get started with the assignment.
+
+1. Try to make a small introduction. ( Keep it short) 
+
+2. Try to understand the data first. Do a Basic statistical analysis to understand the data. Try to check if there is an error in the data( There is one).
+
+3. Once you have studied the data and fixed the error. The next question that should be popping in your mind is what distribution we can use to model the given data?. Don’t forget to motivate on why you selected the distribution. 
+
+4. Now, Select your priors and model the data in an iterative fashion. Compare the different models and discuss the result. We would be happy to see a model with an interaction effect ( not mandatory to pass) trust me it's interesting. Don’t forget to do the prior predictive check. 
+
+5. A discussion regarding the priors you have chosen for your ‘final’ model. Defend them and show what happens if you change priors.( think about overfitting and underfitting )
+
+6. Run Stan on the ‘final’ model, e.g., caterpillar traces. Try to add few lines on what you understood from the traces. 
+
+7. Add DAGS. 
+
+8. What information did the results teach you ? See if you  can answer-  Which technique is better and if the experience makes any impact on the output
